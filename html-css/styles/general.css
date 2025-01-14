@@ -1,0 +1,13 @@
+body{
+    font-family: Roboto, Arial;
+    margin: 0px;
+    padding-top: 106px;
+    padding-left: 75px;
+}
+a{
+    text-decoration: none;
+}
+a:visited{
+    text-decoration: none;
+    color: inherit;
+}
